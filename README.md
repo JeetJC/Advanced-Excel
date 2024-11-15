@@ -1,10 +1,10 @@
 # Advanced-Excel
 
-Demonstrated Skills : 
-  A. Arithmetic Functions
-  B. Charts
-  C. Date Functions
-  D. Logical Functions
-  E. Lookup Functions
+Demonstrated Skills : <br />
+  A. Arithmetic Functions <br />
+  B. Charts <br />
+  C. Date Functions <br />
+  D. Logical Functions <br />
+  E. Lookup Functions <br />
   F. Dashboard
   
